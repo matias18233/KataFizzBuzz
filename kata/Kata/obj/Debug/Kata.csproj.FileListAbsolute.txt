@@ -1,0 +1,7 @@
+C:\xampp\htdocs\kata\Kata\obj\Debug\Kata.csprojAssemblyReference.cache
+C:\xampp\htdocs\kata\Kata\obj\Debug\Kata.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\kata\Kata\bin\Debug\Kata.exe.config
+C:\xampp\htdocs\kata\Kata\bin\Debug\Kata.exe
+C:\xampp\htdocs\kata\Kata\bin\Debug\Kata.pdb
+C:\xampp\htdocs\kata\Kata\obj\Debug\Kata.exe
+C:\xampp\htdocs\kata\Kata\obj\Debug\Kata.pdb
